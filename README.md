@@ -7,7 +7,7 @@
 ---
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, JavaScript, React**
-- 💬 Ask me about **Java, C++, HTML, CSS, JavaScript**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript ReactJS ExpressJS Mongodb Nodejs RESTAPI**
 - 📫 Reach me at **anuragsingh09082004@gmail.com**
 - 📚 Constantly exploring new technologies and improving problem-solving skills
 
